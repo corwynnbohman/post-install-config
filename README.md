@@ -24,13 +24,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help topics
 
 <h2>Configuration Steps</h2>
-Continuing with 
+We will continue using the virtual machine built during the pre-requisites and installation to configure the different settings in the objectives listed above.
 </p>
 <p>
 <img src="https://i.imgur.com/O7sKqIw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Inside of the virtual machine created from the pre-requisites and installation, open osTicket and login with the previously used account. Then click on the Admin Panel to allow editing of the different permissions that we need to arrange. The attached link will show you which settings to change and how to properly set up a basic osTicket use case for a company. https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#
+Inside of the virtual machine that was created, open osTicket and login with the previously used account. Then click on the Admin Panel at the top right corner and it should say 'Agent Panel', to show you have Admin authorization to allow editing of the different permissions that we need to arrange. The attached link will show you which settings to change and how to properly set up a basic osTicket use case for a company. https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#
 </p>
 <br />
 
