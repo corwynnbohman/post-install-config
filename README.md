@@ -35,7 +35,7 @@ Inside of the virtual machine that was created, open osTicket and login with the
 <br />
 
 <p>
-<img src="https://i.imgur.com/zdLCkvo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hCt4rIU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After adding users and agents, assigning them into departments and teams and configuring the various settings, you can switch between the Admin and Agent panel. Experiment with creating tickets for different apartments and giving them different SLAs, see what happens when a worker solves or transfers a ticket to a coworker. Timestamps are made to show a tickets history and are useful in a real company's work environment.
+After adding users and agents and assigning them into departments and teams and configuring the various settings, we will add the last section in the document which is the Help topics. This section is very helpful for help desk employees to get information to help them solve a ticket issue and meet their SLA.
