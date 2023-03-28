@@ -24,12 +24,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help topics
 
 <h2>Configuration Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Continuing with 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/O7sKqIw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Inside of the virtual machine created from the pre-requisites and installation, open osTicket and login with the previously used account. Then click on the Admin Panel to allow editing of the different permissions that we need to arrange. The attached link will show you which settings to change and how to properly set up a basic osTicket use case for a company. https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#
 </p>
 <br />
 
